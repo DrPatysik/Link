@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Link</string>
+    <string-array name="sites">
+        <item>Weather in Makhachkala</item>
+        <item>Cinema schedule</item>
+        <item>Air tickets</item>
+    </string-array>
+    <string-array name="url">
+        <item>https://www.gismeteo.ru/weather-makhachkala-5270/</item>
+        <item>https://cinemahall24.ru/seances</item>
+        <item>https://www.aviasales.ru/?params=MCX1</item>
+    </string-array>
+</resources>
